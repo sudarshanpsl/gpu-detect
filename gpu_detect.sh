@@ -72,9 +72,12 @@ cudaGpuDetect()
         rm gpuDetect.cpp
         rm gpuDetect
     else
+
+    	echo "cuda not detected - initial test failed"
         touch cuda_not_detected
     fi
 
+    echo "In Program-Sud"
     return $retval
 }
 
