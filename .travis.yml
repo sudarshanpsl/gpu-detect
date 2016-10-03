@@ -1,4 +1,4 @@
-#1 This is script given by Andrew, detect nvida, nvcc compiler then cuda and gpu 
+#2 This is script given by Andrew, detect nvida, nvcc compiler then cuda and gpu 
 language: c 
 
  
